@@ -1,0 +1,8 @@
+Git Push Reminder
+=================
+
+put this command on crontab.
+
+I often forget "git push origin master".Then I wrote this utility.
+
+git-push-reminder aggregate 'not pushed yet' commits on the directory, and send email to your gmail account.
